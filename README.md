@@ -18,10 +18,15 @@ Data Cleaning: Removed duplicates, handled missing values, and converted categor
 
 Visualizations: Key plots include:
 Churn Distribution: Bar plot showing the ratio of customers who churned vs stayed.
+
 ![Churn Distribution](images/churn_distribution.png)
+
 Confusion Matrix: Heatmap showing model prediction accuracy.
+
 ![Confusion Matrix](images/confusion_matrix.png)
+
 ROC Curve: Evaluates the model's ability to distinguish between churn and non-churn customers.
+
 ![ROC Curve](images/roc_curve.png)
 
 Model Evaluation
